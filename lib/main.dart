@@ -97,7 +97,7 @@ class MyApp extends StatelessWidget {
                       title: Column(
                         children: [
                           Text(
-                              '【未経験】エンジニアに勉強は必須？？',
+                              '【未経験】エンジニアに勉強は必須？？?',
                             style: TextStyle(
                               fontWeight: FontWeight.w500,
                             ),
