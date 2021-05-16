@@ -99,7 +99,7 @@ class MyApp extends StatelessWidget {
                           Text(
                               '【未経験】エンジニアに勉強は必須？？?',
                             style: TextStyle(
-                              fontWeight: FontWeight.w500,
+                              fontWeight: FontWeight.w600,
                             ),
                           ),
                           Row(
